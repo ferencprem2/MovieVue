@@ -6,9 +6,9 @@
 
 `Scripts\activate`
 
-`git clone https://github.com/Cyri0/movie_app.git`
+`git clone https://github.com/Cyri0/movie_but_react.git`
 
-`cd movie_app`
+`cd movie_but_react`
 
 `pip install -r requirements.txt`
 
